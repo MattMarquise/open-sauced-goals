@@ -1,9 +1,9 @@
 [
   {
     "full_name": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-    "stargazers_count": 8860,
+    "stargazers_count": 8861,
     "open_issues_count": 227,
-    "forks_count": 699
+    "forks_count": 698
   },
   {
     "full_name": "kihosk/kiosk-raspberry",
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "futurice/chilipie-kiosk",
-    "stargazers_count": 1099,
+    "stargazers_count": 1101,
     "open_issues_count": 44,
     "forks_count": 131
   },
@@ -21,7 +21,7 @@
     "full_name": "HackerShackOfficial/Smart-Mirror",
     "stargazers_count": 885,
     "open_issues_count": 66,
-    "forks_count": 390
+    "forks_count": 391
   },
   {
     "full_name": "whitep4nth3r/randomcodegenerator.lol",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "h5bp/Front-end-Developer-Interview-Questions",
-    "stargazers_count": 52207,
-    "open_issues_count": 9,
-    "forks_count": 10224
+    "stargazers_count": 52248,
+    "open_issues_count": 10,
+    "forks_count": 10227
   },
   {
     "full_name": "khang-nd/DEV-stats",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "khang-nd/khang-nd.github.io",
-    "stargazers_count": 29,
+    "stargazers_count": 30,
     "open_issues_count": 0,
     "forks_count": 8
   },
   {
     "full_name": "jamesonsaunders/Convert-Website-to-App",
     "stargazers_count": 30,
-    "open_issues_count": 6,
-    "forks_count": 109
+    "open_issues_count": 7,
+    "forks_count": 110
   },
   {
     "full_name": "MattMarquise/Design-Suite-Landing-Page-Theme",
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 22268,
-    "open_issues_count": 1584,
-    "forks_count": 42863
+    "stargazers_count": 22285,
+    "open_issues_count": 1613,
+    "forks_count": 42920
   },
   {
     "full_name": "facebook/react-native",
-    "stargazers_count": 101083,
-    "open_issues_count": 2120,
-    "forks_count": 21740
+    "stargazers_count": 101151,
+    "open_issues_count": 2133,
+    "forks_count": 21752
   },
   {
     "full_name": "MattMarquise/Lifestyle-Blog",
@@ -103,33 +103,33 @@
   },
   {
     "full_name": "facebook/react",
-    "stargazers_count": 182227,
-    "open_issues_count": 959,
-    "forks_count": 37151
+    "stargazers_count": 182440,
+    "open_issues_count": 963,
+    "forks_count": 37204
   },
   {
     "full_name": "google/styleguide",
-    "stargazers_count": 29880,
+    "stargazers_count": 29901,
     "open_issues_count": 291,
-    "forks_count": 11764
+    "forks_count": 11773
   },
   {
     "full_name": "Asabeneh/30-Days-Of-React",
-    "stargazers_count": 9211,
+    "stargazers_count": 9254,
     "open_issues_count": 56,
-    "forks_count": 2365
+    "forks_count": 2375
   },
   {
     "full_name": "JeffreyWay/laravel-mix",
-    "stargazers_count": 4960,
+    "stargazers_count": 4964,
     "open_issues_count": 163,
     "forks_count": 803
   },
   {
     "full_name": "Maatwebsite/Laravel-Excel",
-    "stargazers_count": 10536,
-    "open_issues_count": 6,
-    "forks_count": 1668
+    "stargazers_count": 10550,
+    "open_issues_count": 8,
+    "forks_count": 1669
   },
   {
     "full_name": "MattMarquise/Wondrous-Theme",
@@ -141,7 +141,7 @@
     "full_name": "sButtons/sbuttons",
     "stargazers_count": 338,
     "open_issues_count": 2,
-    "forks_count": 547
+    "forks_count": 548
   },
   {
     "full_name": "734m/734m.github.io",
@@ -151,15 +151,15 @@
   },
   {
     "full_name": "ccxt/ccxt",
-    "stargazers_count": 23236,
-    "open_issues_count": 671,
-    "forks_count": 5727
+    "stargazers_count": 23293,
+    "open_issues_count": 666,
+    "forks_count": 5741
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 41344,
+    "stargazers_count": 41431,
     "open_issues_count": 76,
-    "forks_count": 5726
+    "forks_count": 5749
   },
   {
     "full_name": "bdougie/gitActionTraction",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 588,
+    "stargazers_count": 587,
     "open_issues_count": 29,
-    "forks_count": 181
+    "forks_count": 182
   }
 ]
