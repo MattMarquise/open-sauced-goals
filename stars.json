@@ -1,9 +1,9 @@
 [
   {
     "full_name": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-    "stargazers_count": 9047,
+    "stargazers_count": 9056,
     "open_issues_count": 226,
-    "forks_count": 699
+    "forks_count": 701
   },
   {
     "full_name": "kihosk/kiosk-raspberry",
@@ -13,13 +13,13 @@
   },
   {
     "full_name": "futurice/chilipie-kiosk",
-    "stargazers_count": 1164,
+    "stargazers_count": 1167,
     "open_issues_count": 55,
     "forks_count": 138
   },
   {
     "full_name": "HackerShackOfficial/Smart-Mirror",
-    "stargazers_count": 891,
+    "stargazers_count": 893,
     "open_issues_count": 65,
     "forks_count": 389
   },
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "h5bp/Front-end-Developer-Interview-Questions",
-    "stargazers_count": 53656,
+    "stargazers_count": 53773,
     "open_issues_count": 5,
-    "forks_count": 10473
+    "forks_count": 10490
   },
   {
     "full_name": "khang-nd/DEV-stats",
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "khang-nd/khang-nd.github.io",
-    "stargazers_count": 38,
+    "stargazers_count": 39,
     "open_issues_count": 0,
     "forks_count": 10
   },
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 23693,
-    "open_issues_count": 381,
-    "forks_count": 45801
+    "stargazers_count": 23741,
+    "open_issues_count": 385,
+    "forks_count": 45882
   },
   {
     "full_name": "facebook/react-native",
-    "stargazers_count": 103630,
-    "open_issues_count": 2186,
-    "forks_count": 22229
+    "stargazers_count": 103679,
+    "open_issues_count": 2200,
+    "forks_count": 22234
   },
   {
     "full_name": "MattMarquise/Lifestyle-Blog",
@@ -103,32 +103,32 @@
   },
   {
     "full_name": "facebook/react",
-    "stargazers_count": 190877,
-    "open_issues_count": 1002,
-    "forks_count": 39380
+    "stargazers_count": 191056,
+    "open_issues_count": 1007,
+    "forks_count": 39418
   },
   {
     "full_name": "google/styleguide",
-    "stargazers_count": 31034,
-    "open_issues_count": 302,
-    "forks_count": 12224
+    "stargazers_count": 31070,
+    "open_issues_count": 303,
+    "forks_count": 12232
   },
   {
     "full_name": "Asabeneh/30-Days-Of-React",
-    "stargazers_count": 13913,
-    "open_issues_count": 89,
-    "forks_count": 3533
+    "stargazers_count": 13970,
+    "open_issues_count": 91,
+    "forks_count": 3556
   },
   {
     "full_name": "JeffreyWay/laravel-mix",
-    "stargazers_count": 5081,
-    "open_issues_count": 194,
-    "forks_count": 817
+    "stargazers_count": 5086,
+    "open_issues_count": 195,
+    "forks_count": 816
   },
   {
     "full_name": "Maatwebsite/Laravel-Excel",
-    "stargazers_count": 10896,
-    "open_issues_count": 13,
+    "stargazers_count": 10899,
+    "open_issues_count": 14,
     "forks_count": 1715
   },
   {
@@ -151,15 +151,15 @@
   },
   {
     "full_name": "ccxt/ccxt",
-    "stargazers_count": 25021,
-    "open_issues_count": 804,
-    "forks_count": 6119
+    "stargazers_count": 25055,
+    "open_issues_count": 822,
+    "forks_count": 6131
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 45423,
+    "stargazers_count": 45484,
     "open_issues_count": 76,
-    "forks_count": 6350
+    "forks_count": 6363
   },
   {
     "full_name": "bdougie/gitActionTraction",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 712,
-    "open_issues_count": 17,
-    "forks_count": 309
+    "stargazers_count": 716,
+    "open_issues_count": 16,
+    "forks_count": 313
   }
 ]
